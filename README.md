@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Geethesh Nair, a front-end developer with a knack for building sleek interfaces and a recent focus on Laravel development. I transitioned to Laravel just 3 months ago after honing my skills as a front-end developer, primarily using Tailwind CSS. I'm passionate about creating intuitive user experiences and have a keen eye for design. Let's collaborate and bring your ideas to life!<br><br>🚀 https://geethesh-nair.netlify.app/
+👋 Hi, I'm Geethesh Nair, Frontend Developer with nearly 3 years of experience building responsive, clean, and user-friendly web interfaces. Skilled in React.js, Next.js,
+JavaScript, HTML, CSS, and Tailwind CSS. Experienced in creating reusable components, integrating REST APIs, improving UI performance,
+and delivering pixel-perfect designs. Strong focus on smooth animations, modern layouts, and building websites that work well across all
+devices. Collaborates effectively with designers and backend teams to deliver features end-to-end. Quick learner with solid problem-solving
+skills and a strong interest in improving user experience, performance, and overall frontend quality.<br><br>🚀 https://geethesh-nair.vercel.app
 
 
 # 💻 Tech Stack:
